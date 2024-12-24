@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/todo_management
+    username: makarandhinge
+    password: makarand@123
+  jpa:
+    hibernate:
+      ddl-auto: update
